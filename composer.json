@@ -1,0 +1,9 @@
+{
+  "name": "drupal/sendgrid_integration",
+  "type": "drupal-module",
+  "description": "Provides Sendgrid Integration for the Drupal Mail System",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0-or-later",
+  "homepage": "https://github.com/naveenvalecha/sendgrid_integration",
+  "minimum-stability": "dev"
+}
