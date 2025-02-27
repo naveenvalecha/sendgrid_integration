@@ -1,0 +1,7 @@
+name: 'SendGrid Integration - MOCK'
+description: 'Provides Sendgrid Integration for the Drupal Mail System'
+type: module
+core_version_requirement: ^10 || ^11
+package: 'Mail'
+dependencies:
+  - mailsystem:mailsystem (>=4.x)
